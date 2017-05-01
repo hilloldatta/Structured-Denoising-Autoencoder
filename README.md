@@ -3,3 +3,5 @@ Implementation of Denoising Autoencoder with priority information alpha which de
 
 How to run
 ------------
+
+python dautoencoder.py
